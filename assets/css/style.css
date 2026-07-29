@@ -16407,7 +16407,7 @@ div#global-loader .whirly-loader:not(:required) {
 }
 .sidebar .sidebar-menu > ul > li > a svg,
 .settings-sidebar .sidebar-menu > ul > li > a svg {
-  color: #28A745;
+  color: #000;
 }
 .sidebar .sidebar-menu > ul > li > a img, .settings-sidebar .sidebar-menu > ul > li > a img {
   width: 18px;
